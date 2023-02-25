@@ -7,6 +7,6 @@ chapter = true
 
 ### Assembly
 
-# Some Chapter title
+# Steps of assembly
 
-Lorem Ipsum.
+![image](IMG_20230223_115842.jpg)

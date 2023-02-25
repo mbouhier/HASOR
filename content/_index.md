@@ -23,5 +23,9 @@ Les avantages de cette solution sont multiples:
 - Réduction significative du nombre de leds par rapport à un system de dôme
 - Une simplification de l'électronique de controle
 - Un encombrement reduit
-- La fourche est amovible afin de faciliter le trasport et le stockage du dispositif. 
+- La fourche est amovible afin de faciliter le transport et le stockage du dispositif. 
 - L'ensemble peut être contenus dans une malette de 35x35x15cm
+
+
+![image](IMG_20230223_115842.jpg)
+
