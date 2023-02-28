@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Handheld Acquisiton System Open RTI'
 theme = "hugo-theme-learn"
 themesdir = "themes"
-metaDataFormat = "yaml"
+metaDataFormat = "toml"
 
 
 [params]
@@ -48,5 +48,5 @@ metaDataFormat = "yaml"
   # Change the title separator. Default to "::".
   titleSeparator = "-"
 
-  landingPageURL = "/"
+  landingPageURL = "/HASOR/introduction/"
   landingPageName = "<i class='fas fa-home'></i> Home"
