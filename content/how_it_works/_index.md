@@ -8,12 +8,7 @@ chapter = true
 ### How it works
 
 # Graphical user interface
-
-You can find a pdf version of the document describing the user interface here (in french only for now).
-{{%attachments style="orange" /%}}
-
-![image](02_27_23_09_12_16-r.jpg)
-
+See details in the website
 
 # Photo trigger
 Put your camera above HASOR (on a tripod for exemple), and connect it to the trigger connector them with a cable (see connections section for details).
