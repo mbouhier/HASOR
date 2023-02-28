@@ -5,13 +5,13 @@ weight = 1
 chapter = false
 +++
 
+### Menu structure
+
 
 You can find a pdf version of the document describing the user interface here (in french only for now).
 {{%attachments style="orange" /%}}
 
 
-
-# Menu structure:
 
 ## START:
 Start acquisition sequence. Pressing the cursor during acquisition cancels the current sequence.
