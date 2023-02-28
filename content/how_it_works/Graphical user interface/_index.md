@@ -27,10 +27,10 @@ Adjust settings related to exposure time, camera triggering, motor steps, illumi
 ![image](motor.JPG)
 #### Stab. delay:
 ![image](stabilisation_delay.JPG)
-Delay for stabilizing the fork. Wait time before the first shot after the fork reaches its position. Increasing this delay avoids potential blur effects on the first shot induced by system vibration at the end of movement. Recommended value: 50ms.
+Delay for stabilizing the fork. Wait time before the first shot after the fork reaches its position. Increasing this delay avoids potential blur effects on the first shot induced by system vibration at the end of movement. Recommended value minimum 50ms.
 #### Motor speed:
 ![image](motor_speed.JPG)
-Maximum motor movement speed. Recommended value: XX steps/s.
+Maximum motor movement speed in steps/s.
 #### Calibrate:
 ![image](calibrate.JPG)![image](calibrate_now.JPG)
 "Calibrate now" starts the motor calibration process, searching for the end-of-travel contact to reset the motor step counter.
@@ -83,16 +83,16 @@ Adjust LED intensity by module. Turn the knob to select led number 0 to MAX_LED.
 ![image](ledon_duration.JPG)![image](led_on_delay.JPG)
 Duration of LED triggering, adjust to be at least equal to the camera's exposure time.
 ## Tests:
-![image](tests.JPG)![image](motor_test.JPG)
+![image](tests.JPG)![image](motor_2.JPG)
 Section for testing LEDs, camera triggering, or motor movement.
 ### Motor:
-![image](motor.JPG)
+![image](motor.JPG)![image](motor_test.JPG)
 Turn the cursor to move the fork and check the status of the end-of-travel sensor(s). Click to return to the previous menu.
 ### Shutter:
-![image](shutter.JPG)
+![image](shutter.JPG)![image](trigger_now.JPG)
 **"Trigger now"** triggers the camera with the settings defined in "settings" section.
 ### Leds:
-![image](leds2.JPG)
+![image](launch_test.JPG)
 **"Launch test"** triggers a sequential lighting **test of all LEDs**.
 ## Save:
 ![image](save_parameters.JPG)![image](parameters_saved.JPG)
