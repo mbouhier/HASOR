@@ -7,7 +7,7 @@ weight: 1
 ---
 
 
-The box has a **29x29cm footprint** and is made with **3mm MDF wood** sheets. You can laser cut it on **300x600mm** sheets, suitables for most laser cutters:
+The box has a **290x290mm footprint** and is made with **3mm MDF wood** sheets. You can laser cut it on **300x600mm** sheets, suitables for most laser cutters:
 
 - 4 pieces for sides
 - 1 top and one bottom layers
