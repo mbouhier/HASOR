@@ -11,19 +11,34 @@ chapter = true
 ![image](RTI_global_4_LQ_400x464_256b.gif)
 
 
-Dispositif open-source de prise de vue photographique **RTI** ("Reflectance Transformation Imaging") de petits objets.
++++
+title = "Introduction"
+date = 2023-02-25T07:26:14+01:00
+weight = 1
+chapter = true
++++
+# HASOR
+### Handheld Acquisition System Open RTI
 
-Le dispositif **HASOR** à été pensé de façon à être realisable avec les outils disponibles dans les FabLabs (imprimante 3D, découpeuse laser) et à partir du maximum de materiaux "standards".
-Une liste de matériel et de fournisseurs, les plans mécaniques, les schemas électronique ainsi que les codes sources sont mis en ligne gratuitement sous licence "xxxxxxx" afin de permettre à chacun de répliquer et adapter le dispositif.
+![gif](RTI_global_4_LQ_400x464_256b.gif)
 
-Le systeme d'acquisition sera également disponible sous forme de **Kit** ou **préassemblé** dans notre section **"Boutique"** pour les utilisateurs souhaitant un systeme clef en main.
 
-HASOR a été conçus pour la **prise de vue d'objet de petite taille**, ayant un diamètre d'**environ 10 cm**. Une fourche mobile pourvue de 6 leds hautes intensités se deplace automatiquement autour de l'objet et permet de simuler l'utilisation d'un dôme.
+**HASOR** is an open-source device for **Reflectance Transformation Imaging (RTI)** photographic capture of **small objects**. It is designed for capturing objects of diameter up to approximately 10cm. A movable fork equipped with 6 high-intensity light sources automatically moves around the object being studied and simulates the use of a dome of LEDs. The user's camera, placed on a tripod overlooking the device, is triggered synchronously through its trigger port or an IR signal.
 
-Les avantages de cette solution sont multiples:
+This system is designed to be reproduced with tools available in FabLabs (3D printers, laser cutters) and using as many "standard" materials as possible. A list of materials and suppliers, mechanical plans, electronic diagrams, and source codes are posted online under open-source license to allow anyone to **replicate and adapt** the device. It will also be available as **kit** form or **pre-assembled** in our "Shop" section for users who want a turnkey system.
 
-- Réduction significative du nombre de leds par rapport à un system de dôme
-- Une simplification de l'électronique de controle
-- Un encombrement reduit
-- La fourche est amovible afin de faciliter le trasport et le stockage du dispositif. 
-- L'ensemble peut être contenus dans une malette de 35x35x15cm
+
+The advantages of our mobile arm solution are numerous:
+
+- Significant reduction in the number of LEDs compared to a dome system
+- Simplification of control electronics and wiring of light sources
+- The fork is removable to facilitate transport and storage of the device
+- Compact size, with the entire device fitting into a 35x35x15cm case
+- Simple acquisition parameter control through the integrated user interface
+
+![image](IMG_20230223_115842.jpg)
+
+
+
+
+
