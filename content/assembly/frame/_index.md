@@ -10,8 +10,8 @@ The mechanisms and all components of the instruments rely on a structure made of
 
 It is composed by:
 
-- 2x **28cm** bar
-- 4x **26cm** bar
+- 2x **280mm** bar
+- 4x **260mm** bar
 
 Those bars are connected together with 3D printed parts.
 
