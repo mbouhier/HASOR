@@ -86,7 +86,7 @@ Duration of LED triggering, adjust to be at least equal to the camera's exposure
 ![image](tests.JPG)
 Section for testing LEDs, camera triggering, or motor movement.
 ### Motor:
-![image](motor.JPG)![image](motor_test.JPG)
+![image](motor2.JPG)![image](motor_test.JPG)
 Turn the cursor to move the fork and check the status of the end-of-travel sensor(s). Click to return to the previous menu.
 ### Shutter:
 ![image](shutter.JPG)![image](trigger_now.JPG)
