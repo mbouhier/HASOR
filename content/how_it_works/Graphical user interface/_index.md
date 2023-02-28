@@ -14,7 +14,7 @@ You can find a pdf version of the document describing the user interface here (i
 
 
 ## START:
-![image](start.JPG)![image](acquisition_in_progress.JPG)
+![](start.JPG) ![](acquisition_in_progress.JPG)
 
 Start acquisition sequence. Pressing the cursor during acquisition cancels the current sequence.
 ## Infos:
@@ -77,13 +77,13 @@ Number of LED modules. 6 by default.
 ![image](leds_by_module.JPG)
 Number of LEDs per module. Set to 3 in the case of RGB LED modules on LED modules.
 ### Tune intensities:
-![image](tune_tuning_led_id.JPG)![image](tune_tuning_setting.JPG)![image](tune_tuning_exit.JPG)
+![image](led_tuning_led_id.JPG)![image](led_tuning_setting.JPG)![image](led_tuning_exit.JPG)
 Adjust LED intensity by module. Turn the knob to select led number 0 to MAX_LED. Pushing the knob let you enter into setting mode. Turn the knob to set new intensity (in percent of the max intensity defined into related section). Push again to validate. To exit led tuning menu, rotate knob until showing "Exit" and push to validate. 
 ### LedOn duration:
 ![image](ledon_duration.JPG)![image](led_on_delay.JPG)
 Duration of LED triggering, adjust to be at least equal to the camera's exposure time.
 ## Tests:
-![image](tests.JPG)![image](motor_2.JPG)
+![image](tests.JPG)
 Section for testing LEDs, camera triggering, or motor movement.
 ### Motor:
 ![image](motor.JPG)![image](motor_test.JPG)
@@ -95,7 +95,7 @@ Turn the cursor to move the fork and check the status of the end-of-travel senso
 ![image](launch_test.JPG)
 **"Launch test"** triggers a sequential lighting **test of all LEDs**.
 ## Save:
-![image](save_parameters.JPG)![image](parameters_saved.JPG)
+![](save_parameters.JPG)![](parameters_saved.JPG)
 Save the settings previously defined by the user (min/max position, steps count, etc.) in one of the available memory slots. Click on the **configuration name** to save or **"Cancel"** to return to the previous menu.
 ## Load:
 ![image](load_parameters.JPG)![image](parameters_loaded.JPG)
