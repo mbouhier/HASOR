@@ -5,7 +5,6 @@ weight = 1
 chapter = false
 +++
 
-# Graphical user interface
 
 You can find a pdf version of the document describing the user interface here (in french only for now).
 {{%attachments style="orange" /%}}
