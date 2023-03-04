@@ -5,6 +5,10 @@ theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "toml"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
@@ -50,3 +54,8 @@ metaDataFormat = "toml"
 
   landingPageURL = "/HASOR/introduction/"
   landingPageName = "<i class='fas fa-home'></i> Home"
+
+  [template]
+    [template.funcs]
+        ceil = "ceil"
+        tonumber = "tonumber"

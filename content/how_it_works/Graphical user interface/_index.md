@@ -11,15 +11,11 @@ chapter = false
 You can find a pdf version of the document describing the user interface here (in french only for now).
 {{%attachments style="orange" /%}}
 
-
-
 ## START:
-![](start.JPG)
-![](acquisition_in_progress.JPG)
+![](start_and_acquisition.jpg)
 Start acquisition sequence. Pressing the cursor during acquisition cancels the current sequence.
 ## Infos:
-![](infos.JPG)
-![](firmware.JPG)
+![](infos_and_firmware.jpg)
 Display firmware version.
 ## Settings:
 ![image](settings.JPG)
@@ -82,9 +78,13 @@ Number of LED modules. 6 by default.
 ![image](leds_by_module.JPG)
 Number of LEDs per module. Set to 3 in the case of RGB LED modules on LED modules.
 ### Tune intensities:
-![](led_tuning_led_id.JPG)
-![](led_tuning_setting.JPG)
-![](led_tuning_exit.JPG)
+
+{{row}}
+{{column}}![](led_tuning_led_id.JPG) {{/column}}
+{{column}}![](led_tuning_setting.JPG) else{{/column}}
+{{column}}![](led_tuning_exit.JPG) else{{/column}}
+{{/row}}
+
 Adjust LED intensity by module. Turn the knob to select led number 0 to MAX_LED. Pushing the knob let you enter into setting mode. Turn the knob to set new intensity (in percent of the max intensity defined into related section). Push again to validate. To exit led tuning menu, rotate knob until showing "Exit" and push to validate. 
 ### LedOn duration:
 ![](ledon_duration.JPG)
