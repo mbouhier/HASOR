@@ -1,4 +1,6 @@
-The website aims to provide comprehensive and up-to-date information about the HASOR - OpenRTI device. It is designed to offer an intuitive user experience while clearly presenting the features, functionalities, and benefits of the device.
+This repository contains the files of the website of HASOR - OpenRTI device.
+This website aims to provide comprehensive and up-to-date information about the HASOR - OpenRTI device. 
+It is designed to offer an intuitive user experience while clearly presenting the features, functionalities, and benefits of the device.
 
 ## Contribution
 
@@ -15,6 +17,6 @@ If you encounter issues or have improvement suggestions, please report them by o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **CC BY-NV-ND 4.0 licence** - see the [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) description for more details.
 
 Thank you for your interest in the HASOR - OpenRTI device!
