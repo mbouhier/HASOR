@@ -2,6 +2,8 @@ This repository contains the files of the website of HASOR - OpenRTI device.
 This website aims to provide comprehensive and up-to-date information about the HASOR - OpenRTI device. 
 It is designed to offer an intuitive user experience while clearly presenting the features, functionalities, and benefits of the device.
 
+To find the files related to fabrication and programming of the device, please follow this link [GITHUB HASOR FILES](https://github.com/mbouhier/HASOR_files)
+
 ## Contribution
 
 Contributions are welcome! If you want to contribute to improving the site, follow these simple steps:
