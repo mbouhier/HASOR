@@ -16,7 +16,7 @@ chapter = true
 This system is designed to be reproduced with tools available in FabLabs (3D printers, laser cutters) and using as many "standard" materials as possible. A list of materials and suppliers, mechanical plans, electronic diagrams, and source codes are posted online under open-source license to allow anyone to **replicate and adapt** the device. It will also be available as **kit** form or **pre-assembled** in our "Shop" section for users who want a turnkey system.
 
 Files are available here: 
-{{% button href="https://github.io/HASOR_files" icon="fas fa-download" %}}HASOR Files{{% /button %}}
+{{% button href="https://github.com/mbouhier/HASOR_files" icon="fas fa-download" %}}HASOR Files{{% /button %}}
 
 The advantages of our mobile arm solution are numerous:
 
